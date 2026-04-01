@@ -1,0 +1,15 @@
+{
+  "name": "CiaoLingo Italien",
+  "short_name": "CiaoLingo",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "Gemini_Generated_Image_o5d8qwo5d8qwo5d8 (2)",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
